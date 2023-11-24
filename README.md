@@ -1,2 +1,2 @@
-# arduino
-Ramayana Reimagined: An Interactive Journey with Arduino
+# Ramayana Reimagined: An Interactive Journey with Arduino
+
