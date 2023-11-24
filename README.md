@@ -1,2 +1,3 @@
 # Ramayana Reimagined: An Interactive Journey with Arduino
 
+For this project, my group adapted an important moment from the Ramayana into a scene utilizing Arduino. The Ramayana is one of the two important epics of Hinduism, and was composed over a period of nearly a thousand years between 2nd century BC and 2nd century AD. It is an important text to millions of people all across South Asia and Southeast Asia, and parts of the folklore are often told to children from a very young age. The Ramayana is 1700 pages and contains dozens of stories, but for our project we were drawn to the story in which Prince Rama leads an army of monkeys to rescue his wife Sita from the clutches of the demonic king Ravana.
